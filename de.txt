@@ -1,1 +1,4 @@
-hii hello Git hub
+Hi,
+this is venkatesh , i'm a graduate in Computer science.
+I have completed my java full stack developer certification in JSPIDERS in BENGALURU.
+And now i'm looking for a job as back-end developer.
